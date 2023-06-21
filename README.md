@@ -41,4 +41,6 @@ System.out.println("It is not a palindrome nymber");
 }
 }
 
+ OUTPUT:
+ It is a palindrome number
 
